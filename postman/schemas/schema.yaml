@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   version: '1'
-  title: 'collection-link-testss'
+  title: 'collection-link-testsss'
   license:
     name: MIT
 servers:
