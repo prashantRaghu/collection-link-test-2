@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   version: '1'
-  title: 'collection-link-tests'
+  title: 'collection-link-test'
   license:
     name: MIT
 servers:
